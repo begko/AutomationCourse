@@ -1,14 +1,14 @@
 package homeworkSeven;
 
 public enum Planet {
-    MERCURY(1, 58, 2439, 88),
+    MERKUR(1, 58, 2439, 88),
     VENUS(2, 108, 6051, 225),
-    EARTH(3, 150, 6371, 365),
+    DUNYA(3, 150, 6371, 365),
     MARS(4, 228, 3390, 687),
     JUPITER(5, 778, 69911, 4333),
     SATURN(6, 1429, 58232, 10759),
     URANUS(7, 2871, 25362, 30687),
-    NEPTUNE(8, 4495, 24622, 60190);
+    NEPTUN(8, 4495, 24622, 60190);
 
     // Fields (properties)
     private final int orderFromSun;
